@@ -1,4 +1,4 @@
-<div  align="center"><img width="400" height="400" src="https://i.pinimg.com/564x/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.jpg" ></div>
+<div  align="center"><img width="1000" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" ></div>
 <h1 align="left">Hi 👋, I'm Ahmed Refai</h1>
 <h3 align="left">A frontend developer from egypt</h3>
 
@@ -19,7 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elref7i&show_icons=true&locale=en&layout=compact" alt="elref7i" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elref7i&show_icons=true&locale=en" alt="elref7i" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elref7i&" alt="elref7i" /></p>
-<div  align="center"><img width="1000" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" ></div>
+<div  align="center"><img width="250" height="250" src="https://i.pinimg.com/564x/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.jpg" ></div>
+
