@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/ahmed-refai-72806125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed refai" height="30" width="40" /></a>
 <a href="https://instagram.com/e1.refai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e1.refai" height="30" width="40" /></a>
 <a href="https://youtube.com/@a_k_elrefai?si=6TbwCgOPV3GjAUbY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a_k_elrefai" height="30" width="40" /></a>
-<a href="https://hashnode.com/e1refai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="e1refai" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@e1refai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@e1refai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
