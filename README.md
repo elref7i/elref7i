@@ -1,29 +1,82 @@
-<div  align="center"><img width="1000" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" ></div>
-<h1 align="left">Hi 👋, I'm Ahmed Refai</h1>
-<h3 align="left">A frontend developer from egypt</h3>
+<div align="center">
+  <img width="1000" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" />
+</div>
 
+<h1 align="center" style="font-size: 36px; color: #333; font-family: 'Arial', sans-serif;">Hi 👋, I'm Ahmed Refai</h1>
+<h3 align="center" style="font-size: 24px; color: #555;">Frontend Developer from Egypt</h3>
 
-
-- 🌱 I’m currently learning **Node.js**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/r__efai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r__efai" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-refai-72806125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed refai" height="30" width="40" /></a>
-<a href="https://instagram.com/e1.refai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e1.refai" height="30" width="40" /></a>
-<a href="https://youtube.com/@a_k_elrefai?si=6TbwCgOPV3GjAUbY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a_k_elrefai" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@e1refai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@e1refai" height="30" width="40" /></a>
+<p align="center" style="font-size: 18px; color: #777; font-family: 'Arial', sans-serif; max-width: 800px;">
+  Passionate about creating responsive, interactive web designs and diving deep into modern frontend technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
+
+### 🌱 Currently Learning
+- **Node.js** to expand my backend development skills.
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/r__efai" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-refai-72806125b/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/e1.refai" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@a_k_elrefai?si=6TbwCgOPV3GjAUbY" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://hashnode.com/@e1refai" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elref7i&show_icons=true&locale=en&layout=compact&bg_color=ffffff00" alt="Top Languages" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=elref7i&show_icons=true&locale=en&bg_color=ffffff00" alt="GitHub Stats" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elref7i&theme=dark&bg_color=ffffff00" alt="GitHub Streak" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+</p>
+
+---
+### 🚀 My Projects
+Here are some of my recent projects that I am really proud of:
+
+<p align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <a href="https://vercel.com/el-refais-projects/note-app" target="_blank" style="text-decoration: none; width: 300px; height: 200px; background-color: #FFD700; border-radius: 10px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+    <span style="font-size: 20px; font-weight: bold; color: #333;">Note App</span>
+  </a>
+  <a href="https://e-commerce-niivkbhfd-el-refais-projects.vercel.app/" target="_blank" style="text-decoration: none; width: 300px; height: 200px; background-color: #28A745; border-radius: 10px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+    <span style="font-size: 20px; font-weight: bold; color: #fff;">E-Commerce</span>
+  </a>
+</p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elref7i&show_icons=true&locale=en&layout=compact" alt="elref7i" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elref7i&show_icons=true&locale=en" alt="elref7i" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elref7i&" alt="elref7i" /></p>
-<div  align="center"><img width="250" height="250" src="https://i.pinimg.com/564x/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.jpg" ></div>
-
+<div align="center">
+  <img width="250" height="250" src="https://i.pinimg.com/564x/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.jpg" />
+</div>
