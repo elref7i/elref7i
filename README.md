@@ -55,11 +55,11 @@
 ### 📊 GitHub Stats
 <p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elref7i&show_icons=true&locale=en&layout=compact&bg_color=ffffff00" alt="Top Languages" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=elref7i&show_icons=true&locale=en&bg_color=ffffff00" alt="GitHub Stats" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elref7i&show_icons=true&locale=en&layout=compact&bg_color=ffffff00" alt="Top Languages" style="border-radius: 50%; width: 300px; height: 300px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=elref7i&show_icons=true&locale=en&bg_color=ffffff00" alt="GitHub Stats" style="border-radius: 50%; width: 300px; height: 300px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </div>
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elref7i&theme=dark&bg_color=ffffff00" alt="GitHub Streak" style="border-radius: 50%; width: 500px; height: 500px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elref7i&theme=dark&bg_color=ffffff00" alt="GitHub Streak" style="border-radius: 50%; width: 300px; height: 300px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </div>
 </p>
 
