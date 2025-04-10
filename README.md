@@ -83,15 +83,12 @@ I'm a passionate Front-end Developer specializing in building exceptional digita
     <td width="50%">
       <h3 align="center">My Portfolio</h3>
       <div align="center">
-        <a href="YOUR_PORTFOLIO_URL" target="_blank">
+        <a href="https://ahmed-refai-portfolio.vercel.app/" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=My+Portfolio" width="100%" alt="Portfolio"/>
         </a>
         <p>
-          <a href="YOUR_PORTFOLIO_URL" target="_blank">
+          <a href="https://ahmed-refai-portfolio.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-          <a href="YOUR_PORTFOLIO_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-2F3134?style=for-the-badge&logo=github" alt="GitHub Code"/>
           </a>
         </p>
         <p><strong>Next.js, TypeScript, Tailwind CSS, Shadcn UI</strong> - My professional portfolio showcasing projects and skills.</p>
